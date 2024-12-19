@@ -1,0 +1,10 @@
+InvoiceNo	StockCode	Quantity	InvoiceDate	CustomerID
+*	A	*	*	12345
+*	B	*	*	12345
+*	A	*	*	33333
+*	B	*	*	11111
+*	C	*	*	67890
+*	D	*	*	22222
+*	E	*	*	12345
+*	E	*	*	33333
+*	E	*	*	12345

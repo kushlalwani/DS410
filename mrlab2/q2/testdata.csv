@@ -1,0 +1,6 @@
+InvoiceNo	StockCode	Description	Quantity	InvoiceDate	UnitPrice	CustomerID	Country
+*	*	*	3	7/7/2011 12:30	3.5	*	USA
+*	*	*	5	7/7/2011 12:56	7	*	USA
+*	*	*	1	12/3/2007 11:06	16	*	USA
+*	*	*	7	12/3/2007 1:07	2.5	*	France
+*	*	*	2	12/7/2001 3:01	0.5	*	France

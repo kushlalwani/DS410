@@ -1,0 +1,4 @@
+"big"	2
+"in"	4
+"there"	6
+"was"	2

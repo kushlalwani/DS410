@@ -1,0 +1,6 @@
+"Data"	[2,5]
+"and"	[5]
+"brothers"	[5]
+"data"	[4,1]
+"the"	[2,4,5]
+"upon"	[3]

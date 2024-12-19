@@ -1,0 +1,31 @@
+Name: Kush Lalwani
+Collaborators:
+
+--- Commands for #4: ---
+"hadoop fs -mkdir /user/$USER/myhdfshwdata"
+
+--- Commands for #5: ---
+"hadoop fs -put words /user/$USER/myhdfshwdata"
+
+--- Commands for #6: ---
+"hdfs dfs -ls /user/$USER/"
+
+--- Commands for #7: ---
+"ls"
+
+--- Commands for #8: ---
+"hdfs dfs -ls /user/$USER/myhdfshwdata/words"
+
+--- Commands for #9: ---
+"hadoop fs -mv /user/$USER/myhdfshwdata/words /user/$USER/"
+
+--- Commands for #10: ---
+"hadoop fs -rmdir /user/$USER/myhdfshwdata"
+
+--- Commands for #11: ---
+
+"hadoop fs -tail /user/$USER/words/part-00002"
+--- Commands for #12: ---
+"hadoop fs -stat "filesize:%b replication:%r username:%n modified:%y" /user/$USER/words/part-00001"
+
+

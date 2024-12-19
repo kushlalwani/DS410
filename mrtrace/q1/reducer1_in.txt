@@ -1,0 +1,8 @@
+"Cloud"	[4]
+"Once"	[1]
+"The"	[4]
+"a"	[2,2,2,3]
+"lived"	[4]
+"sisters"	[5]
+"time"	[3]
+"with"	[4]

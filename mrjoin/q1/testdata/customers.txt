@@ -1,0 +1,4 @@
+CustomerID	Country
+12345	USA
+67890	France
+13579	France

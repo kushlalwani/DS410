@@ -1,0 +1,7 @@
+CustomerID	Country
+12345	England
+67890	USA
+11111	France
+22222	France
+33333	England
+44444	France

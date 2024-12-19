@@ -1,0 +1,6 @@
+0	e	d	2
+5	k	green	3
+1	a	b	3
+9	c	j	2
+3	c	a	4
+

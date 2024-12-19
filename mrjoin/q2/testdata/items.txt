@@ -1,0 +1,4 @@
+StockCode	Description	UnitPrice
+*	*	*
+*	*	*
+*	*	*

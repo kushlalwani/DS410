@@ -1,0 +1,4 @@
+InvoiceNo	StockCode	Description	Quantity	InvoiceDate	UnitPrice	CustomerID	Country
+1234	12345	Test Apple Apple Test Purple	3	2-2-2024	$3245	3875389	USA
+532532	9823624	Test Test	1	1-1-2001	$3423525	5423424	Canada
+324235	124	Test Purple Purple Apple	5	5-5-2025	$328956	091274	China
